@@ -1,0 +1,22 @@
+{
+  "name": "pairWorkshop",
+  "version": "0.2.0",
+  "description": "pair workshop exercise",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "simple-statistics": "^7.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}

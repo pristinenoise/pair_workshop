@@ -1,0 +1,28 @@
+dist
+
+.next
+
+/.env*
+.env
+.idea
+.vscode
+node_modules
+
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+yarn-error.log
+
+.byebug_history
+
+
+**/.swp
+*~
+
+# Ignore coverage
+coverage
+
+# ignore mac ds_STORE
+**/.DS_Store
