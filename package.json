@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "csv-parser": "^2.3.3",
-    "simple-statistics": "^7.1.0"
+    "datalib": "^1.9.2",
+    "simple-statistics": "^7.1.0",
+    "statistics.js": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^7.6.0",
